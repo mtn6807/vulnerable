@@ -1,6 +1,6 @@
 {
   "name": "vulnerable-js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A vulnerable library, to be used for security testing.",
   "main": "index.js",
   "scripts": {
